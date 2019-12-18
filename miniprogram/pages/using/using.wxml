@@ -1,0 +1,7 @@
+<view class="container">
+<text class="title">当前温度：</text>
+<view>{{temperature}}</view>
+<text class="title">当前水位:</text>
+<view>{{water}}</view>
+<button bindtap="getdata">获取数据</button>
+</view>

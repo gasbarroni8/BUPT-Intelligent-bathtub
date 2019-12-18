@@ -1,0 +1,13 @@
+.title{
+  font-size: 3 px;
+  font-weight: bold;
+  margin:40 rpx 
+}
+.container{
+  background-color: #eee;
+  height:100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}

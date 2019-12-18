@@ -1,0 +1,8 @@
+<view class="container">
+<image src="../../images/yugang.jpg" class="image"></image>
+<text style="font-weight:bold" class="littleTitle">智能温控加水浴缸</text>
+
+<navigator style="font-size:40rpx" url="../using/using" class="hover"
+hover-class="nar-hover" open-type="switchTab">点击此处立即开始使用</navigator>
+
+</view>

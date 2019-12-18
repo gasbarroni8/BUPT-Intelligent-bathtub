@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/using/using"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "text": "关于",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/about.png",
+        "selectedIconPath": "images/about-selected.png"
+      },
+      {
+        "text": "开始洗浴",
+        "pagePath": "pages/using/using",
+        "iconPath": "images/kaishi.png",
+        "selectedIconPath": "images/kaishi-selected.png"
+      }
+    ]
+  },
+  "window": {
+    "navigationBarTitleText": "智能温控加水浴缸",
+    "navigationBarBackgroundColor": "#66CCFF",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap12.json"
+}
